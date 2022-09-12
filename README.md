@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag Dhiman</h1>
-<h3 align="center">A Data science enthusiast from a Automotive background</h3>
+<h3 align="center">I am a Senior Developer and a Data science enthusiast from a Automotive background</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamanuragdhiman&label=Profile%20views&color=0e75b6&style=flat" alt="iamanuragdhiman" /> </p>
 
