@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Data science projects**
 
-- 🌱 I’m currently learning **AWS, Pyspark and more**
+- 🌱 I’m currently learning **AWS, Time Series Forecasting and more**
 
 - 👯 I’m looking to collaborate on **Data science projects**
 
